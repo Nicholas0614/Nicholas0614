@@ -41,8 +41,6 @@ Software Engineering Student @ Forward College
 
 # 📫 Contact
 
-<a href="https://github.com/Nicholas0614">
-  <img src="https://img.shields.io/badge/GitHub-Nicholas0614-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+nicholaskuokjinshumg@gmail.com
 
 ---
