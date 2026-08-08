@@ -46,5 +46,3 @@ Software Engineering Student @ Forward College
 </a>
 
 ---
-
-⭐ Thanks for visiting my profile!
